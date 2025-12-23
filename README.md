@@ -24,8 +24,3 @@ $ sass --watch style.scss:style.css
 Additionally, ensure that the JS file is linked with the HTML file.
 
 Once these steps are completed, you can successfully run the project.
-
-
-![flower](https://user-images.githubusercontent.com/63699592/236506187-282f2dc3-cbcb-447c-81f4-63b127233ab9.png)
-
-Feel free to explore the examples and tutorials provided in this repository. Happy coding!
